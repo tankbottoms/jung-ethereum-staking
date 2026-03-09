@@ -364,7 +364,7 @@ const html = `<!DOCTYPE html>
       <video
         controls
         preload="metadata"
-        src="https://ipfs.io/ipfs/${IPFS_CID}"
+        src="https://dweb.link/ipfs/${IPFS_CID}"
         type="video/quicktime"
       >
         Your browser does not support the video tag.
