@@ -11,6 +11,7 @@ const html = `<!DOCTYPE html>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>StakeWise Exit Queue | Ethereum Staking Withdrawal</title>
   <meta name="description" content="How the StakeWise V3 exit queue works -- entering, processing, and claiming ETH from the Chorus One Max Vault.">
+  <script src="https://fathom.atsignhandle.xyz/api/tracker/a8432f9bb8308554" defer></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&display=swap" rel="stylesheet">
